@@ -1,0 +1,22 @@
+#title{
+    display: flex;
+    justify-content: center
+}
+
+#rock{
+    display: flex;
+    justify-content: center
+    
+}
+
+#paper{
+    display: flex;
+    justify-content: center
+}
+
+#scissors{
+    display: flex;
+    justify-content: center;
+    
+    
+}
